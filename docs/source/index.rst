@@ -13,7 +13,7 @@ Tron Explorer's documentation
 Explore
 ==================
 
-.. automodule:: explore
+.. automodule:: tron_explorer.explore
    :members:
    :private-members:
    :member-order: bysource
@@ -21,14 +21,14 @@ Explore
 Block
 ==================
 
-.. automodule:: src.block
+.. automodule:: tron_explorer.block
    :members:
    :private-members:
    :member-order: bysource
 
 Transaction
 ==================
-.. automodule:: src.transaction
+.. automodule:: tron_explorer.transaction
    :members:
    :private-members:
    :member-order: bysource
@@ -36,21 +36,21 @@ Transaction
 Smart Contracts
 ==================
 
-.. automodule:: src.smart_contract
+.. automodule:: tron_explorer.smart_contract
    :members:
    :private-members:
    :member-order: bysource
 
 TokenList
 ==================
-.. automodule:: src.token.token_list
+.. automodule:: tron_explorer.token_list
    :members:
    :private-members:
    :member-order: bysource
 
 TokenSingle
 ==================
-.. automodule:: src.token.token_single
+.. automodule:: tron_explorer.token_single
    :members:
    :private-members:
    :member-order: bysource
@@ -58,7 +58,7 @@ TokenSingle
 Account
 ==================
 
-.. automodule:: src.account
+.. automodule:: tron_explorer.account
    :members:
    :private-members:
    :member-order: bysource
@@ -66,14 +66,14 @@ Account
 SR
 ==================
 
-.. automodule:: src.sr
+.. automodule:: tron_explorer.sr
    :members:
    :private-members:
    :member-order: bysource
 
 Proposals
 ==================
-.. automodule:: src.proposals
+.. automodule:: tron_explorer.proposals
    :members:
    :private-members:
    :member-order: bysource
@@ -82,7 +82,7 @@ Proposals
 Utils
 ==================
 
-.. automodule:: src.utils
+.. automodule:: tron_explorer.utils
    :members:
    :private-members:
    :member-order: bysource
@@ -90,7 +90,7 @@ Utils
 Exceptions
 ==================
 
-.. automodule:: src.exceptions
+.. automodule:: tron_explorer.exceptions
    :members:
    :private-members:
    :member-order: bysource
