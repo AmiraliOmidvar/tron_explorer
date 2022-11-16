@@ -55,4 +55,4 @@ Any contribution is welcome. please open an issue to discuss changes or improvem
 
 ## License
 
-MIT
+[MIT](https://github.com/AmiraliOmidvar/tron_explorer/blob/master/LICENCE.txt)
