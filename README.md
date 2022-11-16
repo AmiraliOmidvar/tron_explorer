@@ -47,7 +47,7 @@ for more examples and info on other data types you can check out the test packag
 
 ## Documentation
 
-you can find tron_explore doc here.
+you can find tron_explore [doc here](https://tron-explorer.readthedocs.io/en/latest/).
 
 ## Contributing
 
