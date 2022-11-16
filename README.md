@@ -1,22 +1,22 @@
 # Tron Explorer
 
-Tron explorer is a python wrapper for tronscan.org REST API. with the help of Tron explore get most of the data available on tronscan.org without pagination.
+Tron explorer is a python wrapper for tronscan.org REST API. with the help of Tron explorer get most of the data available on tronscan.org without pagination.
 
 ## Features
 Getting data for blocks, accounts, proposals, SRs, smart contracts, tokens and transactions from start to current state of blockchain with one request.
 
 ## Installation
 
-Use pip to install tron_explore.
+Use pip to install tron_explorer.
 
 ```bash
-pip install tron_explore
+pip install tron_explorer
 ```
 
 ## Usage
 
 ```python
-from tron_explore.explore import Explore
+from tron_explorer.explore import Explore
 
 explore = Explore()
 
@@ -47,7 +47,7 @@ for more examples and info on other data types you can check out the test packag
 
 ## Documentation
 
-you can find tron_explore [doc here](https://tron-explorer.readthedocs.io/en/latest/).
+you can find tron_explorer [doc here](https://tron-explorer.readthedocs.io/en/latest/).
 
 ## Contributing
 
